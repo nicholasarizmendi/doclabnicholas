@@ -1,0 +1,42 @@
+PARA CAROUSEL
+https://releases.jquery.com/
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+https://owlcarousel2.github.io/OwlCarousel2/
+https://boxicons.com/
+https://fonts.google.com/specimen/Barlow
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap");
+
+CÓDIGO DE SLIDER PARA JS Y HTML
+https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html
+
+$('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+
+SECCION NOSOTROS
+https://getbootstrap.com/docs/5.3/components/scrollspy/#via-data-attributes
+
+
+LINK DE LA PÁGINA
+https://cafexpress.netlify.app/
+
+
+PÁGINAS DE CONSULTA
+
+https://owlcarousel2.github.io/OwlCarousel2/  (PARA EL CARROUSEL)
+https://fonts.google.com/specimen/Barlow (PARA LA TIPOGRAFIA)
+https://remixicon.com/ (PARA LOS ICONOS)
+https://getbootstrap.com/ (PÁGINA OFICIAL DE BOOTSTRAP)
